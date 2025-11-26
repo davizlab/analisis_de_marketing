@@ -1,5 +1,5 @@
 📊 Daviz Lab — Análisis de Datos Avanzado
-Colección de Notebooks y Estudios Basados en Datos Reales
+Colección de Notebooks y Estudios Basados en Datos
 
 En Daviz Lab creemos que las mejores decisiones de marketing se construyen sobre un entendimiento profundo de los datos.
 Este repositorio reúne una serie de notebooks de análisis de datos, desarrollados a partir de información extraída directamente desde bases de datos SQL, con el objetivo de mostrar la rigurosidad, la metodología y la calidad del trabajo analítico que aplicamos en nuestros proyectos.
@@ -47,13 +47,13 @@ Recomendaciones accionables respaldadas por modelos
 
 🗄️ De dónde provienen los datos
 
-Todos los análisis están construidos sobre datos reales obtenidos mediante consultas SQL profesionales:
+Todos los análisis están construidos sobre datos obtenidos mediante consultas SQL:
 
-Extracción limpia
+Extracción
 
 Validación
 
-Transformación responsable
+Transformación
 
 Preparación de datasets analíticos
 
